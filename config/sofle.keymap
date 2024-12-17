@@ -69,10 +69,10 @@
 
         layer_2 {
             bindings = <
-&kp ESC  &kp F1  &kp G    &kp N3  &kp 3  &trans    &mmv MOVE_UP     &kp F6  &kp F7  &kp F8      &kp F9     &kp F10      &trans
-&kp I     &kp C   &kp W  &kp E       &kp R        &kp R          &mmv MOVE_DOWN   &trans  &trans  &kp F11     &kp F12    &kp UNDER    &kp PLUS
-&kp LCTRL     &kp A  &kp S   &kp D        &kp G        &kp H          &mmv MOVE_LEFT   &trans  &trans  &trans      &trans     &kp LBRC     &kp RBRC
-&kp LSHFT   &kp M    &kp Z        &kp B   &kp LEFT_ALT        &TRANS          &mmv MOVE_RIGHT  &trans  &trans  &sys_reset  &soft_off  &bootloader  &trans
+&kp ESC   &kp F1   &kp G    &kp N3  &kp 3        &trans         &mmv MOVE_UP     &kp F6  &kp F7  &kp F8      &kp F9     &kp F10      &trans
+&kp I     &kp C    &kp W    &kp E   &kp R        &kp R          &mmv MOVE_DOWN   &trans  &trans  &kp F11     &kp F12    &kp UNDER    &kp PLUS
+&kp LCTRL &kp A    &kp S    &kp D   &kp G        &kp H           &mmv MOVE_LEFT   &trans  &trans  &trans      &trans     &kp LBRC     &kp RBRC
+&kp LSHFT &kp M    &kp Z    &kp B   &kp LEFT_ALT &trans          &mmv MOVE_RIGHT  &trans  &trans  &sys_reset  &soft_off  &bootloader  &trans
 &trans     &kp N9        &kp N4          &kp SPACE       &kp V       &trans          &mkp LCLK        &trans  &trans  &trans      &trans     &trans
             >;
 
