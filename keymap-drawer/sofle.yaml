@@ -175,7 +175,7 @@ layers:
   - Z
   - B
   - $$mdi:apple-keyboard-option$$
-  - '&TRANS'
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
